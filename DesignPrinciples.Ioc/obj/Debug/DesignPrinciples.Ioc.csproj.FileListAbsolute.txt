@@ -1,0 +1,5 @@
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPrinciples.Ioc\bin\Debug\DesignPrinciples.Ioc.dll
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPrinciples.Ioc\bin\Debug\DesignPrinciples.Ioc.pdb
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPrinciples.Ioc\obj\Debug\DesignPrinciples.Ioc.csprojResolveAssemblyReference.cache
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPrinciples.Ioc\obj\Debug\DesignPrinciples.Ioc.dll
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPrinciples.Ioc\obj\Debug\DesignPrinciples.Ioc.pdb

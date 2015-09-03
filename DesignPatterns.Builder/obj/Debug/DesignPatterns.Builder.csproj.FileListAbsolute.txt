@@ -1,0 +1,5 @@
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Builder\bin\Debug\DesignPatterns.Builder.dll
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Builder\bin\Debug\DesignPatterns.Builder.pdb
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Builder\obj\Debug\DesignPatterns.Builder.csprojResolveAssemblyReference.cache
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Builder\obj\Debug\DesignPatterns.Builder.dll
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Builder\obj\Debug\DesignPatterns.Builder.pdb
