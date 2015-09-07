@@ -1,4 +1,5 @@
-﻿using DesignPatterns.Factory;
+﻿using DesignPatterns.Factory.Repositories;
+using DesignPatterns.Factory.Utilities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DesignPatterns.Tests
@@ -16,8 +17,6 @@ namespace DesignPatterns.Tests
             var order2 = RepositoryFactory.CreateInstance<OrderRepository>();
 
             var isEquals = ReferenceEquals(order, order2);
-
-            var isEquals2 = ReferenceEquals(order, order);
 
             var descriptionOrder = order.Description();
 

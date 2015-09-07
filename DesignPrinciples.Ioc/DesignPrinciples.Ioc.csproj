@@ -39,12 +39,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dependency.cs" />
-    <Compile Include="IDependency.cs" />
+    <Compile Include="Abstracts\IDependency.cs" />
+    <Compile Include="Abstracts\ISimpleContainer.cs" />
+    <Compile Include="Concretes\Dependency.cs" />
+    <Compile Include="Concretes\SimpleContainer.cs" />
+    <Compile Include="Entities\Abstracts\IFeline.cs" />
+    <Compile Include="Entities\Abstracts\IWolf.cs" />
+    <Compile Include="Entities\Felipe.cs" />
+    <Compile Include="Entities\Wolf.cs" />
     <Compile Include="InstantiationScope.cs" />
-    <Compile Include="ISimpleContainer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleContainer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using DesignPrinciples.Ioc.Abstracts;
 
-namespace DesignPrinciples.Ioc
+namespace DesignPrinciples.Ioc.Concretes
 {
     public class SimpleContainer : ISimpleContainer
     {

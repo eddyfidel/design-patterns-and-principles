@@ -9,3 +9,7 @@ C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPat
 C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\obj\Debug\DesignPatterns.Tests.csprojResolveAssemblyReference.cache
 C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\obj\Debug\DesignPatterns.Tests.dll
 C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\obj\Debug\DesignPatterns.Tests.pdb
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.Builder.dll
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.Builder.pdb
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.Prototype.dll
+C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Tests\bin\Debug\DesignPatterns.Prototype.pdb

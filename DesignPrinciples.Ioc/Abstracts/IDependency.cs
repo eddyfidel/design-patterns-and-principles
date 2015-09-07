@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPrinciples.Ioc
+namespace DesignPrinciples.Ioc.Abstracts
 {
     public interface IDependency
     {

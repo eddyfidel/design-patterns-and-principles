@@ -39,7 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Abstracts\ILasagne.cs" />
+    <Compile Include="Entities\Condiment.cs" />
+    <Compile Include="Entities\Lasagne.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\Abstracts\LasagneBuilderBase.cs" />
+    <Compile Include="Utilities\Builders\EggplantLasagneBuilder.cs" />
+    <Compile Include="Utilities\LasagneCreator.cs" />
+    <Compile Include="Utilities\LasagneType.cs" />
+    <Compile Include="Utilities\Builders\MeatLasagneBuilder.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

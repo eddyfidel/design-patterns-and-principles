@@ -1,6 +1,7 @@
 ﻿using System;
+using DesignPrinciples.Ioc.Abstracts;
 
-namespace DesignPrinciples.Ioc
+namespace DesignPrinciples.Ioc.Concretes
 {
     public class Dependency : IDependency
     {

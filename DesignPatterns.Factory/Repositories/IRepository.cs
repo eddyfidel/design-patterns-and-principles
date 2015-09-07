@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Factory
+﻿namespace DesignPatterns.Factory.Repositories
 {
     public interface IRepository
     {
