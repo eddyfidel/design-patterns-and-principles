@@ -1,5 +1,0 @@
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Prototype\bin\Debug\DesignPatterns.Prototype.dll
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Prototype\bin\Debug\DesignPatterns.Prototype.pdb
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Prototype\obj\Debug\DesignPatterns.Prototype.csprojResolveAssemblyReference.cache
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Prototype\obj\Debug\DesignPatterns.Prototype.dll
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Prototype\obj\Debug\DesignPatterns.Prototype.pdb

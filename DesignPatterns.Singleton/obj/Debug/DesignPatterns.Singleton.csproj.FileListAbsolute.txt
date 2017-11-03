@@ -1,5 +1,0 @@
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Singleton\bin\Debug\DesignPatterns.Singleton.dll
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Singleton\bin\Debug\DesignPatterns.Singleton.pdb
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Singleton\obj\Debug\DesignPatterns.Singleton.csprojResolveAssemblyReference.cache
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Singleton\obj\Debug\DesignPatterns.Singleton.dll
-C:\Users\edfi2919\documents\visual studio 2012\Projects\DesignPatterns\DesignPatterns.Singleton\obj\Debug\DesignPatterns.Singleton.pdb
